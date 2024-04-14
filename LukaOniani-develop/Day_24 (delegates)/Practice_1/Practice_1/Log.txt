@@ -1,0 +1,4 @@
+File Log: Hello, this is a file log message!
+File Log: Combined log message!
+File Log: Hello, this is a file log message!
+File Log: Combined log message!

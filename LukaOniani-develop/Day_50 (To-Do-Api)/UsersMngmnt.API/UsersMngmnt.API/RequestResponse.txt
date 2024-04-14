@@ -1,0 +1,37 @@
+
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /v1/todos
+Method: GET
+IsSecured: True
+Time: 3/25/2024 11:09:40 PM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /v1/users
+Method: POST
+IsSecured: True
+Time: 3/25/2024 11:09:59 PM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /v1/users/access-token
+Method: POST
+IsSecured: True
+Time: 3/25/2024 11:10:19 PM
+}
+{
+ Custom Middleware
+IP: ::1
+Address: https
+Path: /v1/todos
+Method: GET
+IsSecured: True
+Time: 3/25/2024 11:10:51 PM
+}
